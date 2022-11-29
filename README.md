@@ -2,9 +2,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Hello Microverse</b></h3>
 
 </div>
@@ -38,9 +35,6 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -74,8 +68,8 @@ Example command:
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
   git clone git@github.com:josuerushanika/helloword.git
+  cd /helloworld
 ```
 
 
@@ -84,11 +78,9 @@ Clone this repository to your desired folder:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors">Josue Rushanika</a>
+## 👥 Author <a name="authors">Josue Rushanika</a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/josuerushanika)
 - Twitter: [@twitterhandle](https://twitter.com/josuerushanika)
@@ -126,23 +118,7 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
