@@ -78,13 +78,19 @@ Clone this repository to your desired folder:
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors">Josue Rushanika</a>
 
-👤 **Author**
+👥 Author <a name="authors">Josue Rushanika</a>
 
-- GitHub: [@githubhandle](https://github.com/josuerushanika)
-- Twitter: [@twitterhandle](https://twitter.com/josuerushanika)
+
+
+👤 **Josue RUSHANIKA**
+
+- GitHub: [@github](https://github.com/josuerushanika)
+- Twitter: [@twitter](https://twitter.com/josuerushanika)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/josue-rushanika-336049b3/)
+
+
+
 
 
 
